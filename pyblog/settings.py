@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'pylog', # le nom de notre base de données créée précédemment
         'USER': 'melkassimii', # attention : remplacez par votre nom d'utilisateur !!
         'PASSWORD': 'Azerty**',
-        'HOST': '',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
